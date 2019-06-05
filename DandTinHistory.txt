@@ -1,0 +1,1 @@
+export HISTTIMEFORMAT='%F %T'              //temporary in that terminal
