@@ -1,0 +1,2 @@
+export HISTTIMEFORMAT='%F %T'              //run temporary in that terminal
+//OR paste in .bashrc for permanent effect
