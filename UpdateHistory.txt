@@ -1,0 +1,4 @@
+As we can observe that when we write some commands by ourselves in .bash_history 
+its effects are only displayed in the terminal if it is opened again
+to resolve this issue and get the updated history without closing terminal could be done by executing the following command:
+            history -n
